@@ -1,9 +1,9 @@
 <h1 align="center">I'm Matias Varas</h1>
 <h3 align="center">Developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **React JS and Laravel**
 
-- 💬 Ask me about **React, react-hooks and Typescript**
+- 💬 Ask me about **JavaScript, Linux, HTML**
 
 - 📫 How to reach me **mativaras71@gmail.com**
 
