@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Matias Varas</h1>
+<h1 align="center">I'm Matias Varas</h1>
 <h3 align="center">Developer from Argentina</h3>
 
 - 🌱 I’m currently learning **Spring boot**
