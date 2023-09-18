@@ -12,8 +12,9 @@
 
     <a href="https://www.linkedin.com/in/matias-varas-45b3a624b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/victor-villafa%c3%b1e-2b75b1193/" height="30" width="40" /></a>
 <!-- 
-    <a href="https://www.hackerrank.com/@vvillafane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vvillafane" height="30" width="40" /></a>
-</p> -->
+    <a href="https://www.hackerrank.com/@vvillafane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vvillafane" height="30" width="40" /></a> -->
+
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
