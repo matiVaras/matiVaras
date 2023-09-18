@@ -1,7 +1,7 @@
 <h1 align="center">I'm Matias Varas</h1>
 <h3 align="center">Developer from Argentina</h3>
 
-- 🌱 I’m currently learning **React JS and Laravel**
+- 🌱 I’m currently learning **React JS, Laravel & Arduino**
 
 - 💬 Ask me about **JavaScript, Linux, HTML**
 
