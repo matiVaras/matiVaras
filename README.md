@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Matias Varas</h1>
 <h3 align="center">Developer from Argentina</h3>
 
-🌿  I’m currently learning **MongoDB and Express**
+🌿  Deepening my knowledge in **MongoDB and Express**
 
 📫  Personal Email **mativaras71@gmail.com**
 
